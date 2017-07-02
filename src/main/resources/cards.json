@@ -1,0 +1,390 @@
+[
+    {
+        "isWildcard": false,
+        "unitType": "SOLDIER",
+        "area": {
+            "name": "alaska",
+            "continent": "NORTH_AMERICA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "CAVALRY",
+        "area": {
+            "name": "northwestterritories",
+            "continent": "NORTH_AMERICA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "ARTILERY",
+        "area": {
+            "name": "greenland",
+            "continent": "NORTH_AMERICA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "SOLDIER",
+        "area": {
+            "name": "alberta",
+            "continent": "NORTH_AMERICA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "CAVALRY",
+        "area": {
+            "name": "ontario",
+            "continent": "NORTH_AMERICA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "ARTILERY",
+        "area": {
+            "name": "quebec",
+            "continent": "NORTH_AMERICA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "SOLDIER",
+        "area": {
+            "name": "westernstates",
+            "continent": "NORTH_AMERICA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "CAVALRY",
+        "area": {
+            "name": "easternstates",
+            "continent": "NORTH_AMERICA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "ARTILERY",
+        "area": {
+            "name": "centralamerica",
+            "continent": "NORTH_AMERICA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "SOLDIER",
+        "area": {
+            "name": "venezuela",
+            "continent": "SOUTH_AMERICA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "CAVALRY",
+        "area": {
+            "name": "peru",
+            "continent": "SOUTH_AMERICA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "ARTILERY",
+        "area": {
+            "name": "brazil",
+            "continent": "SOUTH_AMERICA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "SOLDIER",
+        "area": {
+            "name": "argentina",
+            "continent": "SOUTH_AMERICA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "CAVALRY",
+        "area": {
+            "name": "northwesternafrica",
+            "continent": "AFRICA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "ARTILERY",
+        "area": {
+            "name": "egypt",
+            "continent": "AFRICA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "SOLDIER",
+        "area": {
+            "name": "easternafrica",
+            "continent": "AFRICA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "CAVALRY",
+        "area": {
+            "name": "congo",
+            "continent": "AFRICA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "ARTILERY",
+        "area": {
+            "name": "southernafrica",
+            "continent": "AFRICA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "SOLDIER",
+        "area": {
+            "name": "easternaustralia",
+        	"continent": "AUSTRALIA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "CAVALRY",
+        "area": {
+            "name": "madagascar",
+            "continent": "AFRICA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "ARTILERY",
+        "area": {
+            "name": "iceland",
+            "continent": "EUROPE",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "SOLDIER",
+        "area": {
+            "name": "scandinavia",
+            "continent": "EUROPE",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "CAVALRY",
+        "area": {
+            "name": "ukraine",
+            "continent": "EUROPE",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "ARTILERY",
+        "area": {
+            "name": "greatbritain",
+            "continent": "EUROPE",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "SOLDIER",
+        "area": {
+            "name": "centraleurope",
+            "continent": "EUROPE",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "CAVALRY",
+        "area": {
+            "name": "westerneurope",
+            "continent": "EUROPE",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "ARTILERY",
+        "area": {
+            "name": "southerneurope",
+            "continent": "EUROPE",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "SOLDIER",
+        "area": {
+            "name": "ural",
+            "continent": "ASIA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "CAVALRY",
+        "area": {
+            "name": "siberia",
+            "continent": "ASIA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "ARTILERY",
+        "area": {
+            "name": "jakutia",
+            "continent": "ASIA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "SOLDIER",
+        "area": {
+            "name": "kamtschatka",
+            "continent": "ASIA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "CAVALRY",
+        "area": {
+            "name": "irtutsk",
+            "continent": "ASIA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "ARTILERY",
+        "area": {
+            "name": "mongolia",
+            "continent": "ASIA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "SOLDIER",
+        "area": {
+            "name": "japan",
+            "continent": "ASIA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "CAVALRY",
+        "area": {
+            "name": "afghanistan",
+            "continent": "ASIA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "ARTILERY",
+        "area": {
+            "name": "china",
+            "continent": "ASIA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "SOLDIER",
+        "area": {
+            "name": "middleeast",
+            "continent": "ASIA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "CAVALRY",
+        "area": {
+            "name": "india",
+            "continent": "ASIA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "ARTILERY",
+        "area": {
+            "name": "siam",
+            "continent": "ASIA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "SOLDIER",
+        "area": {
+            "name": "indonesia",
+            "continent": "AUSTRALIA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "CAVALRY",
+        "area": {
+            "name": "newguinea",
+            "continent": "AUSTRALIA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": false,
+        "unitType": "ARTILERY",
+        "area": {
+            "name": "westernaustralia",
+            "continent": "AUSTRALIA",
+            "neighbours": null
+        }
+    },
+    {
+        "isWildcard": true,
+        "unitType": "NONE",
+        "area": null
+    },
+    {
+        "isWildcard": true,
+        "unitType": "NONE",
+        "area": null
+    }
+]
